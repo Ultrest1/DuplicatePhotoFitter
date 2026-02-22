@@ -1,7 +1,7 @@
 # Privacy Policy – Duplicate Photo Fitter
 **Last updated:** [22 Feb 2026]
 
-Duplicate Photo Fitter (“the App”) is operated by **[Your Name / Company]** (“we”, “us”, “our”).  
+Duplicate Photo Fitter (“the App”) is operated by DeerSoft (“we”, “us”, “our”).  
 This Privacy Policy explains how information is handled when you use the App.
 
 ## 1) Summary
